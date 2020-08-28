@@ -8,4 +8,4 @@
 
 - [**📞 Talker**](https://github.com/niccampanelli/Talker)
 - [**➗ Calculadora**](https://github.com/niccampanelli/Calculadora)
-- [**✌ Jokenpo**](https://github.com/niccampanelli/Calculadora)
+- [**✌ Jokenpo**](https://github.com/niccampanelli/jokenpo)
